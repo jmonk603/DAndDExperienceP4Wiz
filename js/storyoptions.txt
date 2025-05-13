@@ -1,29 +1,9 @@
-get off the boat
-Help wanted board - D
-you accept the quest
-you don't accept the quest
-go into town/tavern
-talk to wizard
-doomsday supporters start a fight - D
-roll
-you get chased out of town
-you leave peacefully
-leave town being feared
-you get chased out of town mk2
-leave town after showing strength
-leave town after showing magic
-go into forest
-feel like you're being watched
-roll
-avoid trap
-fall into trap
-avoid because ranger
-pixies talk to you and ask for help - D
-you agree to help the pixies and are let free
-you agree to help the pixies and are guided out the forest
-you don't agree to help the pixies and break out of the trap
-you don't agree to help the pixies and run out the forest
-you make it to mountain peak
-roll
-you beat the dragon
-you don't beat the dragon
+You make it to the peak of the mountain!... You see the large figure of the dragon... looming over you as you approach!... As you reach the top Doomsday speaks!
+"You humans have poisoned my lakes,... filled my mountain with your waste!... You must all perish!"
+The time has come!... Roll the D20 to fight Doomsday!
+blank...
+After a long and difficult battle... You manage to slay the dragon!... While your victory is sweet,... you realise the dragon's motives may... have been justified..
+redirected...
+blank...
+After a long and difficult battle... the dragon strikes you down!... Defeated you run away!... Who knows what destruction will follow.. ... At least you tried!
+redirected...
