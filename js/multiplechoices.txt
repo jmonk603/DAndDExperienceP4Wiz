@@ -1,0 +1,9 @@
+accept quest
+don't accept quest
+fight the supporters
+convince them of peace
+throw them out the window (character specific)
+use magic to calm them (character specific)
+use ranger knowledge to detect trap (character specific)
+agree to help pixies
+don't agree to help pixies
